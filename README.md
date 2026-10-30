@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @Jakeyhb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Jakeyhb
 
-<!---
-Jakeyhb/Jakeyhb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**前端开发 · AI 应用 · Agent Skills**
+
+围绕课件制作、内容运营和日常工具做项目，也参与开源项目的平台适配。
+
+## 精选项目
+
+### [PPT Skill Studio](https://github.com/Jakeyhb/pptskill-studio)
+
+面向教培的 AI 课件工作台：输入课程需求，管理生成任务，预览 HTML 幻灯片。通过 DashiAI Skill 引擎完成课件生成，并提供用户管理与模型配置。
+
+`JavaScript` · `Express` · `AI 课件生成`
+
+### [Football Content Ops Skill](https://github.com/Jakeyhb/football-content-ops-skill)
+
+把足球内容运营流程整理成可复用的 Agent Skill，包含选题与文案规范、球队主题、图卡模板，以及渲染和发布脚本。
+
+`Python` · `Agent Skills` · `内容工具`
+
+### [AI 租房助手](https://github.com/Jakeyhb/rental-app)
+
+移动端租房应用原型，探索房源评分、地图展示与收藏对比的交互设计。
+
+`React` · `TypeScript` · `Ant Design`
+
+## 开源贡献
+
+- **[Comet](https://github.com/rpamis/comet)**：参与 MiniMax Code 平台适配，覆盖 Comet Skills 的安装、检测、更新与卸载。[查看 PR #521](https://github.com/rpamis/comet/pull/521)
+
+## 交流
+
+对项目有问题或建议，欢迎到对应仓库提交 Issue。
