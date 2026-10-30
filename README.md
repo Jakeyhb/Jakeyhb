@@ -26,7 +26,10 @@
 
 ## 开源贡献
 
-- **[Comet](https://github.com/rpamis/comet)**：参与 MiniMax Code 平台适配，覆盖 Comet Skills 的安装、检测、更新与卸载。[查看 PR #521](https://github.com/rpamis/comet/pull/521)
+### [Comet](https://github.com/rpamis/comet)
+
+- **已合并 · Dashboard 记忆列表修复**：修复项目记忆过多时条目被裁切、无法滚动的问题，保持底部存储位置栏可见，并补充浏览器回归测试。[PR #454](https://github.com/rpamis/comet/pull/454)
+- **审核中 · MiniMax Code 平台适配**：支持 Comet Skills 的安装、检测、诊断、更新与卸载，避免 Skill 更新影响 Native 项目快照。[PR #521](https://github.com/rpamis/comet/pull/521)
 
 ## 交流
 
